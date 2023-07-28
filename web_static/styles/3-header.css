@@ -1,0 +1,17 @@
+header {
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #cccccc;
+    background-color: white;
+    padding: 0 20px;
+}
+
+header div.logo {
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    background-position: 0 50%;
+    background-size: contain;
+    height: 70px;
+    width: 12.5%;
+
+}
