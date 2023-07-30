@@ -12,6 +12,6 @@ header div.logo {
     background-position: 0 50%;
     background-size: contain;
     height: 70px;
-    width: 12.5%;
+    width: 12.5vmax;
 
 }
