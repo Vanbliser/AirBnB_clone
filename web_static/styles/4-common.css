@@ -9,6 +9,8 @@
 }
 body {
     min-height: 100vh;
+	position: relative;
+	padding-bottom: 60px;
 }
 .container {
     max-width: 1000px;
