@@ -64,6 +64,7 @@
 }
 .filters div:hover ul.popover {
     display: block;
+	z-index: 1;
 }
 .filters div.amenities ul.popover{
     padding: 10% 25%;
